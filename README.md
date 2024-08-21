@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working @ broadAngle<br>🌱 I’m currently learning Angular
+
 
 
 ## 🌐 Socials:
